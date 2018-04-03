@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name boost)(type Legacy)(uri /home/dimka/repos/kicad-libs/boost.lib)(options "")(descr ""))
+)
